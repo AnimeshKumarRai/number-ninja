@@ -7,7 +7,7 @@ _Sharpen your mind, one quiz at a time!_ ✨
 
 ## 🚀 Live Demo
 
-👉 [Try Number Ninja online!](#) _(Deploy on GitHub Pages and put the link here!)_
+👉 [Try Number Ninja online!](https://animeshkumarrai.github.io/number-ninja/) 
 
 ---
 
